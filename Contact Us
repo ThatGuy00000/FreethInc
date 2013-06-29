@@ -1,0 +1,18 @@
+<html>
+  <head>
+		<title><b>Contact Us</b></title>
+	</head>
+	<body>
+		<h1>Contact Us</h1>
+		<form action="">
+		First name: <input typr="text" name="firstname">
+		<br>
+		E-mail address: <input type="text" name="E-mail address">
+		<br>
+		Subject: <input type="text" name="Subject">
+		<br>
+		<textarea>Your Message goes here</textarea>
+		</form>
+		<body background="">
+	</body>	
+	</html>

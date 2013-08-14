@@ -1,0 +1,9 @@
+import Inches
+print "I'm assuming you are in school or something, stop this."
+print "What unit are you starting with?"
+units= raw_input()
+print "Convert that to what?"
+units_2= raw_input()
+print "how many %r?" % units 
+raw_input()
+print "there are %r in %r" % (units_2, units)
